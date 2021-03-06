@@ -1,2 +1,3 @@
 # babyflix
-Modelo estilo Netflix para bebês e crianças
+
+## Projeto estilo Netflix com desenhos e animações para bebês e crianças
