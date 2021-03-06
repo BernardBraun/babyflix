@@ -13,7 +13,7 @@
 
 body {
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Times, serif;
     color: white;
 }
 
@@ -85,4 +85,11 @@ header nav a:hover {
 
 .botao i {
     margin-right: 5px;
+}
+
+.box-filme {
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    display: block;
 }
